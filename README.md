@@ -6,7 +6,7 @@
 - src: Contains the code
 
 ### Data
-Download data from [here](https://drive.google.com/drive/folders/1gLDT0aAMYGl9TZy6GxjigsTvDMkTePvx?usp=sharing).
+Download data folder from [here](https://drive.google.com/drive/folders/1gLDT0aAMYGl9TZy6GxjigsTvDMkTePvx?usp=sharing).
 
 ### How to Run
 - Prepare Data (Includes relevant row retrieval) \
